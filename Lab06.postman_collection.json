@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "f4b87066-fb23-4ef8-8637-77d0bede6e8f",
+		"name": "Lab06",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POST",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
