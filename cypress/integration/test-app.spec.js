@@ -9,6 +9,7 @@ describe('Pruebita', () =>{
           )
     })
     */
+   
     it('Prueba', () =>{
         cy.visit('http://localhost:3001/info')
         cy.contains('May')
